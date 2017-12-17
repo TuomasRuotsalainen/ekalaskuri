@@ -1,0 +1,7 @@
+﻿1;0;Eetu Lohi;Frnit
+2;0;Klaus Castrén
+3;0;Timo Kerola;Luppe_
+4;0;Timo Vähä-Ojala;yontimo
+5;0;Tony Leppäkoski
+6;0;Tuomas Ruotsalainen;Fellowing
+7;0;Panu Simolin;Jinchu
