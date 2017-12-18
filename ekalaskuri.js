@@ -19,8 +19,8 @@ checkEkaisuus : function(nickName, _callback) {
 	var fs = require('fs');
 	var userList = [];
 	var EKALOG_FILENAME = '/home/no_backup_area/teleirc/src/ekalog.txt';
-	var USERS_FILENAME = 'users.txt';
-	var areWeTesting = true;
+	var USERS_FILENAME = '/home/no_backup_area/teleirc/src/users.txt';
+	var areWeTesting = false;
 	var ekaResultMessage = '';
 	readFileContents = function(filePath, cb){ 
 
